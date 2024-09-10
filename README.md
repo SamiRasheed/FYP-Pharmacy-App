@@ -1,5 +1,5 @@
 
-[![Watch the video](https://github.com/user-attachments/assets/d759299e-f2d3-4be9-96b0-0c733a88d6e4)](https://www.youtube.com/channel/UCElD_7GBbsxKeFf-BoMTxQg)
+[![Watch the video](https://github.com/user-attachments/assets/d759299e-f2d3-4be9-96b0-0c733a88d6e4)](https://youtu.be/p2vdMORXs9Q)
 
 -Developed an eCommerce-style web application for a pharmacy using MongoDB, Express, React, and Node.js (MERN).
 -Integrated user authentication with JWT, allowing users to browse products, add items to their cart, and manage orders.
